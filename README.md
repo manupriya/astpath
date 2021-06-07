@@ -3,7 +3,7 @@
 
 [e ɛs ti pæθ] _n_.
 
-Ⅰ. A B command-line utility for querying Python ASTs using XPath syntax.
+Ⅰ. A Bsase command-line utility for querying Python ASTs using XPath syntax.
 
 ⅠⅠ. A better way of searching through your codebase.
 
